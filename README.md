@@ -9,4 +9,4 @@ Smart Travel Partner is a travel companion app that helps users plan trips intel
 - Daily Mini Survival Kit (emergency numbers, essential phrases)
 - Weather-based notifications for upcoming trips
 
-## Project Structure
+
